@@ -16,7 +16,7 @@ return
 Jā
 9. Mainīgajam aita piešķirt vērtību virkni kaste
 aita="kaste"
-10. Uzrakstīt abus veidus kā veidot komentārus
+10. Uzrakstīt abus veidus kā veidot komentārus 
 #
 """
 """
